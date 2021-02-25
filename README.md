@@ -1,7 +1,9 @@
 <img align="right" width="500" height="300" src="https://github.com/renatanegreiros01/RenataNegreiros01/blob/main/Scaffold_hello_world.gif">
 
 ### Hi there, I'm Renata 👋
-Instructional Design Specialist | Graduated in Visual Arts | Graphic Designer | Developer Front End Jr. | HTML | CSS | Javascript | Student in Systems Analysis and Development
+Instructional Design Specialist | Graduated in Visual Arts | Graphic Designer | Developer Front End Jr.| Student in Systems Analysis and Development
+<br>
+My website: www.renatanegreiros.com
 
 ## About me 
 
