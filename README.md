@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://github.com/renatanegreiros01/RenataNegreiros01/blob/main/Scaffold_hello_world.gif">
+<img align="right" width="500" height="300" src="https://github.com/renatanegreiros01/RenataNegreiros01/blob/main/Scaffold_hello_world.gif">
 
 ### Hi there, I'm Renata 👋
 
