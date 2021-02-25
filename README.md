@@ -1,6 +1,6 @@
 <img align="right" width="450" height="250" src="https://github.com/renatanegreiros01/RenataNegreiros01/blob/main/Scaffold_hello_world.gif">
 
-### Hi there, I'm Renata 👋
+## Hi there, I'm Renata 👋
 Graphic Designer | Developer Front End Jr.|
 <br>
 Student in Systems Analysis and Development :mortar_board:
