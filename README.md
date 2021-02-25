@@ -3,7 +3,7 @@
 ### Hi there, I'm Renata 👋
 Instructional Design Specialist | Graduated in Visual Arts | Graphic Designer | Developer Front End Jr.| Student in Systems Analysis and Development
 <br>
-My website: www.renata.negreiros.com<a href="https://www.renatanegreiros.com"  target="_blank"></a>   
+My website: <a href="https://www.renatanegreiros.com"  target="_blank">renatanegreiros.com</a>   
 
 ## About me 
 
