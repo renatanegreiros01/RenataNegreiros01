@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="">
+<img align="right" width="400" height="400" src="https://github.com/renatanegreiros01/Renata/blob/main/hello.gif">
 
 # Welcome!
 
