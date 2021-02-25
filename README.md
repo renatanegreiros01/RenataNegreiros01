@@ -1,9 +1,9 @@
 <img align="right" width="450" height="250" src="https://github.com/renatanegreiros01/RenataNegreiros01/blob/main/Scaffold_hello_world.gif">
 
 ## Hi there, I'm Renata 👋
-Graphic Designer | Developer Front End Jr.|
+Graphic Designer | Jr.Front End Developer|
 <br>
-Student in Systems Analysis and Development :mortar_board:
+Systems Analysis and Development Student :mortar_board:
 <br>
 My website: <a href="https://www.renatanegreiros.com" target="_blank">renatanegreiros.com</a>   
 <br>
